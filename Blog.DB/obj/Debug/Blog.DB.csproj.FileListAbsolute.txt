@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\obj\Debug\Blog.DB.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\obj\Debug\Blog.DB.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\Blog.DB.dll.config
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\Blog.DB.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\Blog.DB.pdb
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\Blog.Model.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\EntityFramework.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\Blog.Model.pdb
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\EntityFramework.xml
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\obj\Debug\Blog.DB.csproj.CopyComplete
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\obj\Debug\Blog.DB.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.DB\obj\Debug\Blog.DB.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog1", "Blog1\Blog1.csproj", "{1750F022-71CE-4B86-AB7C-2F9E0C32D2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Model", "Blog.Model\Blog.Model.csproj", "{ADB2C3B1-515D-4BF7-ACCA-D41D4C45AB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.DB", "Blog.DB\Blog.DB.csproj", "{DAD56C3E-D763-49EB-9088-606A867670AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1750F022-71CE-4B86-AB7C-2F9E0C32D2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1750F022-71CE-4B86-AB7C-2F9E0C32D2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1750F022-71CE-4B86-AB7C-2F9E0C32D2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1750F022-71CE-4B86-AB7C-2F9E0C32D2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB2C3B1-515D-4BF7-ACCA-D41D4C45AB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB2C3B1-515D-4BF7-ACCA-D41D4C45AB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB2C3B1-515D-4BF7-ACCA-D41D4C45AB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB2C3B1-515D-4BF7-ACCA-D41D4C45AB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD56C3E-D763-49EB-9088-606A867670AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD56C3E-D763-49EB-9088-606A867670AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD56C3E-D763-49EB-9088-606A867670AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD56C3E-D763-49EB-9088-606A867670AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101B12CA-6F79-4E43-81E5-9C90CD78A48F}
+	EndGlobalSection
+EndGlobal

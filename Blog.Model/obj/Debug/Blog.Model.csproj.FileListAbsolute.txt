@@ -1,0 +1,6 @@
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\obj\Debug\Blog.Model.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\obj\Debug\Blog.Model.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\bin\Debug\Blog.Model.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\bin\Debug\Blog.Model.pdb
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\obj\Debug\Blog.Model.dll
+C:\Users\MS Official\source\repos\Blog1\Blog.Model\obj\Debug\Blog.Model.pdb
